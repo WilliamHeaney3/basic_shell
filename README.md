@@ -1,2 +1,3 @@
-# basic_shell
-Simple shell written in python 
+# Simple shell written in python 
+
+
